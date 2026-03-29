@@ -5,8 +5,8 @@
 I solve problems with efficiency, precision, and consistency.
 
 - 🏆 **Codeforces Expert** (Max Rating: **1608**)  
-- 🎯 **2000+ Problems Solved** across multiple platforms  
-- ⚡ Active in contests & upsolving  
+- 🎯 **2000+ Problems Solved** across multiple online judges  
+- ⚡ Active in contests and upsolving  
 
 ---
 
@@ -22,32 +22,44 @@ I solve problems with efficiency, precision, and consistency.
 ## 📊 Live Competitive Programming Stats  
 
 <p align="center">
-  
-  <!-- Codeforces -->
   <img src="https://codeforces-readme-stats.vercel.app/api/card?username=ER3N_Yager&theme=dark" /><br/><br/>
-
-  <!-- CodeChef -->
-  <img src="https://codechef-readme-stats.vercel.app/api?username=faysal_ahamed&theme=dark" /><br/><br/>
-
-  <!-- LeetCode -->
   <img src="https://leetcard.jacoblin.cool/ER3N_faysal?theme=dark&ext=contest" />
-
 </p>
 
 ---
 
 ## 💻 Tech Stack  
 
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![JavaScript](https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)  
-![React](https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB)  
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)  
-![MongoDB](https://img.shields.io/badge/MongoDB-%234EA94B?style=for-the-badge&logo=mongodb&logoColor=white)  
+<p align="center">
+  
+  <img src="https://img.shields.io/badge/C-%2300599C?style=for-the-badge&logo=c&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C++-%2300599C?style=for-the-badge&logo=c%2B%2B&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img src="https://img.shields.io/badge/C%23-%23239120?style=for-the-badge&logo=c-sharp&logoColor=white"/>
+  <img src="https://img.shields.io/badge/.NET-%23512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/JavaScript-%23323330?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/HTML5-%23E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-%231572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/React-%2320232A?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+  <br/>
+
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+  <img src="https://img.shields.io/badge/MongoDB-%234EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-%2300758F?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-%23777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MERN-Stack-%2314354C?style=for-the-badge"/>
+
+</p>
 
 ---
 
-## 📈 Profile Views  
+## ✨ About Me  
 
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Faysal-Ahamed22&icon=0&color=0" />
-</p>
+- Competitive programmer with strong problem-solving skills  
+- Full-stack developer (MERN + .NET)  
+- Interested in scalable systems and real-world applications  
