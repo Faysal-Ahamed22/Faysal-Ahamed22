@@ -5,7 +5,7 @@
 I solve problems with efficiency, precision, and consistency.
 
 - 🏆 **Codeforces Expert** (Max Rating: **1608**)  
-- 🎯 **2000+ Problems Solved** across multiple online judges  
+- 🎯 **2500+ Problems Solved** across multiple online judges  
 - ⚡ Active in contests and upsolving  
 
 ---
