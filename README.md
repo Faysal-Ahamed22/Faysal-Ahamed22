@@ -1,5 +1,5 @@
 # 💫 About Me:
-# Hi there, I'm Faysal Ahamed 👋 🚀<br><br>### 👨‍💻 Competitive Programmer |<br> Full-Stack Web Developer | Student<br><br>I am a passionate problem solver and<br> developer who loves breaking down complex <br>challenges into efficient, scalable solutions.<br> Currently, I'm honing my skills in algorithmic optimization<br> and building modern web applications.
+# Hi there, I'm Faysal Ahamed 👋 
 
 
 ## 🌐 Socials:
